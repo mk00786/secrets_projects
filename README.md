@@ -1,4 +1,4 @@
-## Secrets Project##
+## Secrets Project
 
 A Postgres + Express + Node.js mini-project showcasing secure secrets handling with EJS templating and environment-based configuration.
 
